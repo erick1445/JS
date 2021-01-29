@@ -65,4 +65,30 @@ console.log({"myke": 36})
     * Null
      
   */
+
+  /*
+    * para criar nomes
+    - js é sensivel ao caso 
+    - aceita cadeia de caracteres unicode ( "" '' ...)
+
+    _ posso :
+
+    - iniciar com esse caracteres especiais: $_
+    - iniciar com letras 
+    - colocar acentos 
+    - letras maiusculase minusculas fazem diferença
+
+    _ não posso :
+    
+    - iniciar com numeros 
+    - colocar espaços vazios nos nomes
+
+    _ ideal :
+
+    - criar nomes que fazem sentido
+    - explique o que a variavel é ou faz 
+    - CamelCase
+    - snake_case
+    - escrever em ingles
+    */
  
