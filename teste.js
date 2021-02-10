@@ -76,7 +76,7 @@ console.log({"myke": 36})
     - iniciar com esse caracteres especiais: $_
     - iniciar com letras 
     - colocar acentos 
-    - letras maiusculase minusculas fazem diferença
+    - letras maiusculas e minusculas fazem diferença
 
     _ não posso :
     

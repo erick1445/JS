@@ -89,6 +89,7 @@ techs.unshift("sql")
 
 //remover 1 oumais itens de qualquer posição do array 
 //techs.splice(index, 1)
+
 //encontrar a posição de um elemento do array 
 let index = techs.indexOf('css')
 techs.splice(index, 1)
