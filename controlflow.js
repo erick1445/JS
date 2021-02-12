@@ -2,7 +2,7 @@
 
 // if...else
 
-/*
+
 let temperature = 36
 
 
@@ -14,7 +14,7 @@ console.log('febre moderada');
 } else {
     console.log('saudável')
 }
-*/
+
 
 // switch
 
